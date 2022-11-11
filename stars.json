@@ -1,51 +1,51 @@
 [
   {
     "full_name": "rueian/rueidis",
-    "stargazers_count": 759,
-    "open_issues_count": 8,
-    "forks_count": 50
+    "stargazers_count": 764,
+    "open_issues_count": 6,
+    "forks_count": 53
   },
   {
     "full_name": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
-    "stargazers_count": 22913,
+    "stargazers_count": 22960,
     "open_issues_count": 10,
-    "forks_count": 5050
+    "forks_count": 5055
   },
   {
     "full_name": "zeromicro/go-zero",
-    "stargazers_count": 21351,
-    "open_issues_count": 168,
-    "forks_count": 3087
+    "stargazers_count": 21407,
+    "open_issues_count": 165,
+    "forks_count": 3099
   },
   {
     "full_name": "cruise-automation/isopod",
-    "stargazers_count": 431,
+    "stargazers_count": 435,
     "open_issues_count": 15,
     "forks_count": 34
   },
   {
     "full_name": "gaia-pipeline/gaia",
-    "stargazers_count": 4850,
+    "stargazers_count": 4849,
     "open_issues_count": 40,
     "forks_count": 229
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 6126,
-    "open_issues_count": 160,
-    "forks_count": 1596
+    "stargazers_count": 6130,
+    "open_issues_count": 164,
+    "forks_count": 1597
   },
   {
     "full_name": "segmentio/ksuid",
-    "stargazers_count": 3772,
+    "stargazers_count": 3778,
     "open_issues_count": 11,
     "forks_count": 153
   },
   {
     "full_name": "upper/db",
-    "stargazers_count": 3214,
+    "stargazers_count": 3213,
     "open_issues_count": 145,
-    "forks_count": 224
+    "forks_count": 223
   },
   {
     "full_name": "karalabe/xgo",
@@ -55,61 +55,61 @@
   },
   {
     "full_name": "nicolaka/netshoot",
-    "stargazers_count": 5351,
-    "open_issues_count": 16,
-    "forks_count": 715
+    "stargazers_count": 5366,
+    "open_issues_count": 19,
+    "forks_count": 717
   },
   {
     "full_name": "im2nguyen/rover",
-    "stargazers_count": 2230,
+    "stargazers_count": 2232,
     "open_issues_count": 36,
     "forks_count": 124
   },
   {
     "full_name": "hankcs/AhoCorasickDoubleArrayTrie",
-    "stargazers_count": 831,
+    "stargazers_count": 832,
     "open_issues_count": 29,
     "forks_count": 272
   },
   {
     "full_name": "kubernetes-sigs/kubespray",
-    "stargazers_count": 13113,
-    "open_issues_count": 156,
-    "forks_count": 5536
+    "stargazers_count": 13122,
+    "open_issues_count": 155,
+    "forks_count": 5545
   },
   {
     "full_name": "cristalhq/jwt",
-    "stargazers_count": 576,
+    "stargazers_count": 577,
     "open_issues_count": 3,
     "forks_count": 39
   },
   {
     "full_name": "AnalogJ/scrutiny",
-    "stargazers_count": 1705,
-    "open_issues_count": 75,
-    "forks_count": 79
+    "stargazers_count": 1711,
+    "open_issues_count": 77,
+    "forks_count": 78
   },
   {
     "full_name": "Palashio/libra",
-    "stargazers_count": 1918,
+    "stargazers_count": 1917,
     "open_issues_count": 46,
     "forks_count": 112
   },
   {
     "full_name": "colinmarc/hdfs",
-    "stargazers_count": 1227,
-    "open_issues_count": 30,
-    "forks_count": 314
+    "stargazers_count": 1229,
+    "open_issues_count": 31,
+    "forks_count": 315
   },
   {
     "full_name": "xjh22222228/nav",
-    "stargazers_count": 1294,
-    "open_issues_count": 12,
-    "forks_count": 656
+    "stargazers_count": 1295,
+    "open_issues_count": 13,
+    "forks_count": 658
   },
   {
     "full_name": "fuck-xuexiqiangguo/Fuck-XueXiQiangGuo",
-    "stargazers_count": 8166,
+    "stargazers_count": 8167,
     "open_issues_count": 354,
     "forks_count": 1854
   },
@@ -122,8 +122,8 @@
   {
     "full_name": "NetApp/trident",
     "stargazers_count": 603,
-    "open_issues_count": 149,
-    "forks_count": 191
+    "open_issues_count": 150,
+    "forks_count": 193
   },
   {
     "full_name": "TWL007/jira",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "cuberite/cuberite",
-    "stargazers_count": 4412,
-    "open_issues_count": 541,
-    "forks_count": 619
+    "stargazers_count": 4416,
+    "open_issues_count": 537,
+    "forks_count": 617
   }
 ]
