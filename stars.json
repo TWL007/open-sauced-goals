@@ -1,75 +1,87 @@
 [
   {
+    "full_name": "folke/lazy.nvim",
+    "stargazers_count": 2631,
+    "open_issues_count": 5,
+    "forks_count": 59
+  },
+  {
+    "full_name": "gdamore/tcell",
+    "stargazers_count": 3794,
+    "open_issues_count": 33,
+    "forks_count": 274
+  },
+  {
     "full_name": "pterm/pterm",
-    "stargazers_count": 3203,
+    "stargazers_count": 3207,
     "open_issues_count": 27,
     "forks_count": 119
   },
   {
     "full_name": "charmbracelet/bubbles",
-    "stargazers_count": 2998,
+    "stargazers_count": 3005,
     "open_issues_count": 69,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16745,
-    "open_issues_count": 66,
+    "stargazers_count": 16792,
+    "open_issues_count": 67,
     "forks_count": 520
   },
   {
     "full_name": "rivo/tview",
-    "stargazers_count": 7880,
-    "open_issues_count": 79,
-    "forks_count": 454
+    "stargazers_count": 7891,
+    "open_issues_count": 78,
+    "forks_count": 455
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 10563,
-    "open_issues_count": 199,
-    "forks_count": 417
+    "stargazers_count": 10588,
+    "open_issues_count": 196,
+    "forks_count": 420
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2500,
-    "open_issues_count": 49,
+    "stargazers_count": 2513,
+    "open_issues_count": 53,
     "forks_count": 59
   },
   {
     "full_name": "tstack/lnav",
-    "stargazers_count": 5452,
-    "open_issues_count": 266,
+    "stargazers_count": 5460,
+    "open_issues_count": 269,
     "forks_count": 269
   },
   {
     "full_name": "nginx/nginx",
-    "stargazers_count": 17898,
+    "stargazers_count": 17921,
     "open_issues_count": 2,
-    "forks_count": 6151
+    "forks_count": 6159
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 36809,
-    "open_issues_count": 868,
-    "forks_count": 3344
+    "stargazers_count": 36844,
+    "open_issues_count": 870,
+    "forks_count": 3346
   },
   {
     "full_name": "rueian/rueidis",
-    "stargazers_count": 889,
-    "open_issues_count": 6,
+    "stargazers_count": 916,
+    "open_issues_count": 5,
     "forks_count": 63
   },
   {
     "full_name": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
-    "stargazers_count": 23941,
+    "stargazers_count": 23975,
     "open_issues_count": 8,
-    "forks_count": 5151
+    "forks_count": 5152
   },
   {
     "full_name": "zeromicro/go-zero",
-    "stargazers_count": 22408,
-    "open_issues_count": 208,
-    "forks_count": 3203
+    "stargazers_count": 22458,
+    "open_issues_count": 211,
+    "forks_count": 3207
   },
   {
     "full_name": "cruise-automation/isopod",
@@ -79,21 +91,21 @@
   },
   {
     "full_name": "gaia-pipeline/gaia",
-    "stargazers_count": 4963,
-    "open_issues_count": 46,
+    "stargazers_count": 4965,
+    "open_issues_count": 47,
     "forks_count": 237
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 6264,
-    "open_issues_count": 118,
-    "forks_count": 1625
+    "stargazers_count": 6271,
+    "open_issues_count": 119,
+    "forks_count": 1628
   },
   {
     "full_name": "segmentio/ksuid",
-    "stargazers_count": 3928,
+    "stargazers_count": 3929,
     "open_issues_count": 14,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "full_name": "upper/db",
@@ -109,15 +121,15 @@
   },
   {
     "full_name": "nicolaka/netshoot",
-    "stargazers_count": 5657,
+    "stargazers_count": 5671,
     "open_issues_count": 22,
-    "forks_count": 748
+    "forks_count": 749
   },
   {
     "full_name": "im2nguyen/rover",
-    "stargazers_count": 2369,
+    "stargazers_count": 2373,
     "open_issues_count": 37,
-    "forks_count": 136
+    "forks_count": 137
   },
   {
     "full_name": "hankcs/AhoCorasickDoubleArrayTrie",
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "kubernetes-sigs/kubespray",
-    "stargazers_count": 13433,
-    "open_issues_count": 142,
-    "forks_count": 5669
+    "stargazers_count": 13455,
+    "open_issues_count": 135,
+    "forks_count": 5682
   },
   {
     "full_name": "cristalhq/jwt",
@@ -139,8 +151,8 @@
   },
   {
     "full_name": "AnalogJ/scrutiny",
-    "stargazers_count": 2359,
-    "open_issues_count": 76,
+    "stargazers_count": 2366,
+    "open_issues_count": 79,
     "forks_count": 89
   },
   {
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "colinmarc/hdfs",
-    "stargazers_count": 1251,
+    "stargazers_count": 1252,
     "open_issues_count": 32,
-    "forks_count": 326
+    "forks_count": 327
   },
   {
     "full_name": "xjh22222228/nav",
-    "stargazers_count": 1339,
+    "stargazers_count": 1340,
     "open_issues_count": 15,
-    "forks_count": 666
+    "forks_count": 667
   },
   {
     "full_name": "fuck-xuexiqiangguo/Fuck-XueXiQiangGuo",
-    "stargazers_count": 8223,
+    "stargazers_count": 8226,
     "open_issues_count": 354,
     "forks_count": 1851
-  },
-  {
-    "full_name": "mechboxes/mech",
-    "stargazers_count": 307,
-    "open_issues_count": 26,
-    "forks_count": 52
-  },
-  {
-    "full_name": "NetApp/trident",
-    "stargazers_count": 620,
-    "open_issues_count": 163,
-    "forks_count": 196
   }
 ]
