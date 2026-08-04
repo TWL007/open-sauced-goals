@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "mvdan/sh",
+    "stargazers_count": 8939,
+    "open_issues_count": 97,
+    "forks_count": 431
+  },
+  {
     "full_name": "Leonxlnx/taste-skill",
-    "stargazers_count": 69468,
-    "open_issues_count": 52,
-    "forks_count": 4796
+    "stargazers_count": 71257,
+    "open_issues_count": 53,
+    "forks_count": 4896
   },
   {
     "full_name": "chrislusf/gleam",
@@ -13,51 +19,51 @@
   },
   {
     "full_name": "husklet/husklet",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "daeuniverse/daed",
-    "stargazers_count": 1923,
+    "stargazers_count": 1939,
     "open_issues_count": 49,
-    "forks_count": 206
+    "forks_count": 208
   },
   {
     "full_name": "Blinue/Magpie",
-    "stargazers_count": 14256,
-    "open_issues_count": 108,
-    "forks_count": 580
+    "stargazers_count": 14280,
+    "open_issues_count": 109,
+    "forks_count": 583
   },
   {
     "full_name": "dgraph-io/ristretto",
-    "stargazers_count": 6969,
+    "stargazers_count": 6972,
     "open_issues_count": 14,
-    "forks_count": 444
+    "forks_count": 443
   },
   {
     "full_name": "omnigent-ai/omnigent",
-    "stargazers_count": 7943,
-    "open_issues_count": 805,
-    "forks_count": 1178
+    "stargazers_count": 8078,
+    "open_issues_count": 836,
+    "forks_count": 1209
   },
   {
     "full_name": "memcached/memcached",
     "stargazers_count": 14242,
-    "open_issues_count": 98,
+    "open_issues_count": 100,
     "forks_count": 3339
   },
   {
     "full_name": "Project-N-E-K-O/N.E.K.O",
-    "stargazers_count": 2314,
-    "open_issues_count": 65,
-    "forks_count": 260
+    "stargazers_count": 2367,
+    "open_issues_count": 84,
+    "forks_count": 269
   },
   {
     "full_name": "st-tech/ppf-contact-solver",
-    "stargazers_count": 4374,
-    "open_issues_count": 73,
-    "forks_count": 322
+    "stargazers_count": 4385,
+    "open_issues_count": 75,
+    "forks_count": 324
   },
   {
     "full_name": "aliyun/credentials-go",
@@ -68,14 +74,14 @@
   {
     "full_name": "apache/pulsar",
     "stargazers_count": 15300,
-    "open_issues_count": 1678,
-    "forks_count": 3744
+    "open_issues_count": 1687,
+    "forks_count": 3746
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 3389,
-    "open_issues_count": 16,
-    "forks_count": 118
+    "stargazers_count": 3390,
+    "open_issues_count": 17,
+    "forks_count": 119
   },
   {
     "full_name": "aliyun/darabonba",
@@ -85,98 +91,92 @@
   },
   {
     "full_name": "can1357/oh-my-pi",
-    "stargazers_count": 20780,
-    "open_issues_count": 890,
-    "forks_count": 1967
+    "stargazers_count": 21629,
+    "open_issues_count": 1010,
+    "forks_count": 2063
   },
   {
     "full_name": "basecamp/omarchy",
-    "stargazers_count": 24206,
-    "open_issues_count": 387,
-    "forks_count": 2422
+    "stargazers_count": 24285,
+    "open_issues_count": 444,
+    "forks_count": 2438
   },
   {
     "full_name": "tahayvr/omarchist",
-    "stargazers_count": 709,
+    "stargazers_count": 710,
     "open_issues_count": 0,
     "forks_count": 21
   },
   {
     "full_name": "jdx/mise",
-    "stargazers_count": 31353,
-    "open_issues_count": 43,
-    "forks_count": 1295
+    "stargazers_count": 31492,
+    "open_issues_count": 51,
+    "forks_count": 1303
   },
   {
     "full_name": "EverMind-AI/MSA",
-    "stargazers_count": 3512,
+    "stargazers_count": 3513,
     "open_issues_count": 4,
     "forks_count": 225
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 57901,
-    "open_issues_count": 683,
-    "forks_count": 7449
+    "stargazers_count": 58030,
+    "open_issues_count": 677,
+    "forks_count": 7458
   },
   {
     "full_name": "acrlabs/simkube",
-    "stargazers_count": 388,
+    "stargazers_count": 387,
     "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "vercel-labs/skills",
-    "stargazers_count": 27654,
-    "open_issues_count": 953,
-    "forks_count": 2332
+    "stargazers_count": 27964,
+    "open_issues_count": 982,
+    "forks_count": 2355
   },
   {
     "full_name": "chenglou/pretext",
-    "stargazers_count": 49574,
+    "stargazers_count": 49644,
     "open_issues_count": 90,
-    "forks_count": 2724
+    "forks_count": 2728
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 236322,
-    "open_issues_count": 107,
-    "forks_count": 35938
+    "stargazers_count": 237389,
+    "open_issues_count": 120,
+    "forks_count": 36088
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 21406,
-    "open_issues_count": 222,
-    "forks_count": 946
+    "stargazers_count": 21404,
+    "open_issues_count": 225,
+    "forks_count": 948
   },
   {
     "full_name": "kubernetes-sigs/kwok",
-    "stargazers_count": 3162,
+    "stargazers_count": 3163,
     "open_issues_count": 23,
     "forks_count": 245
   },
   {
     "full_name": "panjf2000/ants",
-    "stargazers_count": 14471,
+    "stargazers_count": 14473,
     "open_issues_count": 1,
     "forks_count": 1438
   },
   {
     "full_name": "LMAX-Exchange/disruptor",
-    "stargazers_count": 18416,
+    "stargazers_count": 18420,
     "open_issues_count": 17,
-    "forks_count": 3973
+    "forks_count": 3969
   },
   {
     "full_name": "google/adk-go",
-    "stargazers_count": 8567,
-    "open_issues_count": 281,
-    "forks_count": 871
-  },
-  {
-    "full_name": "speakeasy-api/openapi",
-    "stargazers_count": 275,
-    "open_issues_count": 5,
-    "forks_count": 15
+    "stargazers_count": 8588,
+    "open_issues_count": 289,
+    "forks_count": 935
   }
 ]
